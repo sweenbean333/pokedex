@@ -1,3 +1,5 @@
+/*Contains all functions for displaying the pokedex */
+
 const container = document.querySelector('.pokedex-container');
 const loadMoreBtn = document.querySelector('#load-more');
 const loadAllBtn = document.querySelector('#load-all');
